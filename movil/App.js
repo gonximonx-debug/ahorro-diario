@@ -89,7 +89,7 @@ function Gasolina({ datos, refresco }) {
   const [elegirProv, setElegirProv] = useState(false);
 
   if (!carb) return <Vacio texto="Hoy no hay datos de carburantes." />;
-  const provincias = Object.keys(carb.provincias);
+  const provincias = Object.keys(carb.provincias).sort((a, b) => a.localeCompare(b, "es"));
   const resumen =
     zona === "peninsula" ? carb.peninsula?.[comb] : zona === "espana" ? carb.nacional[comb] : carb.provincias[zona]?.[comb];
   const nombreZona = zona === "peninsula" ? "Península y Baleares" : zona === "espana" ? "Toda España" : capital(zona);
@@ -97,7 +97,10 @@ function Gasolina({ datos, refresco }) {
   const abrirMapa = (e) =>
     Linking.openURL(`https://www.google.com/maps/search/?api=1&query=${e.lat},${e.lon}`);
 
+  // El selector de provincia va fuera de la lista: dentro de su pie no tenía
+  // altura propia y no se podía desplazar.
   return (
+    <View style={{ flex: 1 }}>
     <FlatList
       data={resumen?.masBaratas ?? []}
       keyExtractor={(e) => e.id}
@@ -151,37 +154,39 @@ function Gasolina({ datos, refresco }) {
         </Pressable>
       )}
       ListFooterComponent={
-        <>
-          <Text style={s.pie}>Fuente: Ministerio para la Transición Ecológica · {carb.fechaFuente}</Text>
-          <Modal visible={elegirProv} animationType="slide" onRequestClose={() => setElegirProv(false)}>
-            <SafeAreaView style={{ flex: 1, backgroundColor: C.fondo }}>
-              <View style={s.modalCabecera}>
-                <Text style={s.seccion}>Elige provincia</Text>
-                <Pressable onPress={() => setElegirProv(false)}>
-                  <Text style={s.enlace}>Cerrar</Text>
-                </Pressable>
-              </View>
-              <FlatList
-                data={provincias}
-                keyExtractor={(p) => p}
-                renderItem={({ item: p }) => (
-                  <Pressable
-                    style={s.filaProv}
-                    onPress={() => {
-                      setZona(p);
-                      setElegirProv(false);
-                    }}
-                  >
-                    <Text style={s.titulo}>{capital(p)}</Text>
-                    <Text style={s.sub}>{euros(carb.provincias[p][comb]?.minimo, 3)}</Text>
-                  </Pressable>
-                )}
-              />
-            </SafeAreaView>
-          </Modal>
-        </>
+        <Text style={s.pie}>Fuente: Ministerio para la Transición Ecológica · {carb.fechaFuente}</Text>
       }
     />
+    <Modal visible={elegirProv} animationType="slide" onRequestClose={() => setElegirProv(false)}>
+      <SafeAreaProvider>
+        <SafeAreaView style={{ flex: 1, backgroundColor: C.fondo }}>
+          <View style={s.modalCabecera}>
+            <Text style={s.seccion}>Elige provincia</Text>
+            <Pressable onPress={() => setElegirProv(false)}>
+              <Text style={s.enlace}>Cerrar</Text>
+            </Pressable>
+          </View>
+          <FlatList
+            style={{ flex: 1 }}
+            data={provincias}
+            keyExtractor={(p) => p}
+            renderItem={({ item: p }) => (
+              <Pressable
+                style={s.filaProv}
+                onPress={() => {
+                  setZona(p);
+                  setElegirProv(false);
+                }}
+              >
+                <Text style={s.titulo}>{capital(p)}</Text>
+                <Text style={s.sub}>{euros(carb.provincias[p][comb]?.minimo, 3)}</Text>
+              </Pressable>
+            )}
+          />
+        </SafeAreaView>
+      </SafeAreaProvider>
+    </Modal>
+    </View>
   );
 }
 
