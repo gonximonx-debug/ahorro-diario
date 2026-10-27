@@ -1,0 +1,45 @@
+name: Publicar web (iPhone)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "movil/**"
+      - "scripts/pwa.mjs"
+      - ".github/workflows/web.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: movil/package-lock.json
+      - run: npm ci
+        working-directory: movil
+      - run: npx expo export --platform web
+        working-directory: movil
+        env:
+          EXPO_BASE_URL: /ahorro-diario
+      - run: node scripts/pwa.mjs movil/dist /ahorro-diario
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: movil/dist
+      - id: despliegue
+        uses: actions/deploy-pages@v4
