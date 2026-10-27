@@ -229,6 +229,7 @@ function Mercadona({ datos, refresco }) {
         </>
       }
       ListEmptyComponent={<Vacio texto="No hay bajadas que coincidan." />}
+      ListFooterComponent={<AvisoNoAfiliada />}
       renderItem={({ item: o }) => (
         <Pressable style={s.tarjeta} onPress={() => o.url && Linking.openURL(o.url)}>
           {o.imagen ? <Image source={{ uri: o.imagen }} style={s.imagen} /> : null}
@@ -273,6 +274,7 @@ function Folletos({ datos, refresco }) {
         </>
       }
       ListEmptyComponent={<Vacio texto="Todavía no hay ofertas de folletos para hoy." />}
+      ListFooterComponent={<AvisoNoAfiliada />}
       renderItem={({ item: o }) => (
         <Pressable style={s.tarjeta} onPress={() => o.url && Linking.openURL(o.url)}>
           <View style={{ flex: 1 }}>
@@ -289,6 +291,14 @@ function Folletos({ datos, refresco }) {
         </Pressable>
       )}
     />
+  );
+}
+
+function AvisoNoAfiliada() {
+  return (
+    <Text style={s.pie}>
+      Ahorro Diario no está afiliada a ninguna de las cadenas mostradas. Precios orientativos: confírmalos en tienda.
+    </Text>
   );
 }
 
