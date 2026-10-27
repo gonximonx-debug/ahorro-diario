@@ -1,0 +1,26 @@
+name: Actualizar datos diarios
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 07:00/08:00 hora peninsular
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node scripts/actualizar.mjs
+      - name: Guardar datos
+        run: |
+          git config user.name "ahorro-diario-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add datos
+          git diff --cached --quiet || git commit -m "Datos del $(date +%F)"
+          git push

@@ -1,0 +1,21 @@
+{
+  "actualizado": "2026-10-27T18:00:00+01:00",
+  "ofertas": [
+    {
+      "supermercado": "Carrefour",
+      "producto": "Folleto hipermercados: 3x2 en productos seleccionados",
+      "detalle": "No válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "oferta": "3x2",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://www.chollometro.com/ofertas/folleto-carrefour-hipermercados-del-27-de-octubre-al-12-de-noviembre-3x2-para-hacer-la-compra-bien-2037622"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Cupón del 20% por compras de jamones y paletas",
+      "detalle": "Cupón recibido por email por compras del 13 al 20 oct",
+      "oferta": "−20% cupón",
+      "vigencia": "Canjeable 27 oct – 10 nov",
+      "url": "https://www.chollometro.com/ofertas/todos-los-jamones-de-la-promo-carrefour-donde-te-dan-el-20-de-tu-compra-en-un-cupon-que-envian-al-correo-2033620"
+    }
+  ]
+}

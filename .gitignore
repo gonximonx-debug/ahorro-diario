@@ -1,0 +1,5 @@
+node_modules/
+.expo/
+movil/node_modules/
+movil/.expo/
+movil/dist/

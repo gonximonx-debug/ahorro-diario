@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "datos",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["--yes", "http-server", "datos", "-p", "8091", "--cors", "-c-1"],
+      "port": 8091
+    },
+    {
+      "name": "app-web",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["expo", "start", "--web", "--port", "8081"],
+      "cwd": "movil",
+      "env": { "EXPO_PUBLIC_DATOS_URL": "http://localhost:8091/hoy.json" },
+      "port": 8081
+    }
+  ]
+}
