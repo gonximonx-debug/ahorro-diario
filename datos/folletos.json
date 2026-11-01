@@ -1,21 +1,503 @@
 {
-  "actualizado": "2026-10-27T18:00:00+01:00",
+  "actualizado": "2026-11-02T00:06:01+01:00",
   "ofertas": [
     {
       "supermercado": "Carrefour",
-      "producto": "Folleto hipermercados: 3x2 en productos seleccionados",
-      "detalle": "No válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "oferta": "3x2",
+      "producto": "Calabaza sepallo Carrefour El Mercado",
+      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 1.19,
+      "precioAnterior": 1.89,
+      "oferta": "−37%",
       "vigencia": "27 oct – 12 nov",
-      "url": "https://www.chollometro.com/ofertas/folleto-carrefour-hipermercados-del-27-de-octubre-al-12-de-noviembre-3x2-para-hacer-la-compra-bien-2037622"
+      "url": "https://folleto.net/carrefour/"
     },
     {
       "supermercado": "Carrefour",
-      "producto": "Cupón del 20% por compras de jamones y paletas",
-      "detalle": "Cupón recibido por email por compras del 13 al 20 oct",
-      "oferta": "−20% cupón",
-      "vigencia": "Canjeable 27 oct – 10 nov",
-      "url": "https://www.chollometro.com/ofertas/todos-los-jamones-de-la-promo-carrefour-donde-te-dan-el-20-de-tu-compra-en-un-cupon-que-envian-al-correo-2033620"
+      "producto": "Kaki Rojo Brillante Carrefour El Mercado",
+      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 2.39,
+      "precioAnterior": 3.69,
+      "oferta": "−35%",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Hamburguesa de añojo baja en grasa Círculo de Calidad",
+      "detalle": "Bandeja 2x150 g. La 2ª bandeja sale a 1,59 € (2 bandejas: 6,88 €). Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 5.29,
+      "oferta": "2ª ud −70%",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Granada Carrefour El Mercado",
+      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 1.99,
+      "precioAnterior": 2.99,
+      "oferta": "−33%",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Fabada asturiana Litoral",
+      "detalle": "420 g. Comprando 3, la unidad sale a 1,73 € (3 uds: 5,20 €). También 3x2 en el resto de platos preparados Litoral. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 2.6,
+      "oferta": "3x2",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Pizzas Pizza&Salsa Campofrío",
+      "detalle": "Comprando 3, la unidad sale a 2,03 € (3 uds: 6,10 €). Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 3.05,
+      "oferta": "3x2",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Piña Del Monte Selecta",
+      "detalle": "Variedad Extra Sweet. Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 1.89,
+      "precioAnterior": 2.59,
+      "oferta": "−27%",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Boniato Carrefour El Mercado",
+      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 1.85,
+      "precioAnterior": 2.49,
+      "oferta": "−26%",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Mandarina Carrefour El Mercado",
+      "detalle": "Malla 1,5 kg (1,89 €/kg). Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 2.84,
+      "precioAnterior": 3.68,
+      "oferta": "−23%",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Patata lavada todo uso Carrefour El Mercado",
+      "detalle": "Malla 5 kg (0,79 €/kg). Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 3.95,
+      "precioAnterior": 4.95,
+      "oferta": "−20%",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Patata a granel",
+      "detalle": "Precio por kg. Con Lidl Plus",
+      "precio": 1.19,
+      "precioAnterior": 1.75,
+      "oferta": "−32%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://www.lidl.es/l/folletos/folleto-alimentacion-2-11-2-11-26-8-11-26-44deff/ar/0"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Boniato a granel",
+      "detalle": "Precio por kg. Origen España",
+      "precio": 1.69,
+      "precioAnterior": 2.49,
+      "oferta": "−32%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://www.lidl.es/l/folletos/folleto-alimentacion-2-11-2-11-26-8-11-26-44deff/ar/0"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Mandarina",
+      "detalle": "1 kg. Origen España. Con Lidl Plus",
+      "precio": 1.59,
+      "precioAnterior": 2.19,
+      "oferta": "−27%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://www.lidl.es/l/folletos/folleto-alimentacion-2-11-2-11-26-8-11-26-44deff/ar/0"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Limón",
+      "detalle": "1 kg. Origen España. Con Lidl Plus",
+      "precio": 1.69,
+      "precioAnterior": 2.19,
+      "oferta": "−22%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://www.lidl.es/l/folletos/folleto-alimentacion-2-11-2-11-26-8-11-26-44deff/ar/0"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Aguacate a granel",
+      "detalle": "Precio por kg. Con Lidl Plus",
+      "precio": 3.79,
+      "precioAnterior": 4.79,
+      "oferta": "−20%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://www.lidl.es/l/folletos/folleto-alimentacion-2-11-2-11-26-8-11-26-44deff/ar/0"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Champiñón blanco",
+      "detalle": "300 g. Origen España",
+      "precio": 1.19,
+      "precioAnterior": 1.49,
+      "oferta": "−20%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://www.lidl.es/l/folletos/folleto-alimentacion-2-11-2-11-26-8-11-26-44deff/ar/0"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Lechuga iceberg",
+      "detalle": "Unidad. Origen España. Con Lidl Plus",
+      "precio": 0.75,
+      "precioAnterior": 0.89,
+      "oferta": "−15%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://www.lidl.es/l/folletos/folleto-alimentacion-2-11-2-11-26-8-11-26-44deff/ar/0"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Coles de Bruselas",
+      "detalle": "500 g",
+      "precio": 1.75,
+      "precioAnterior": 1.95,
+      "oferta": "−10%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://www.lidl.es/l/folletos/folleto-alimentacion-2-11-2-11-26-8-11-26-44deff/ar/0"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Papaya a granel",
+      "detalle": "Precio por kg. Origen España",
+      "precio": 3.19,
+      "precioAnterior": 3.39,
+      "oferta": "−6%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://www.lidl.es/l/folletos/folleto-alimentacion-2-11-2-11-26-8-11-26-44deff/ar/0"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Espumoso de chardonnay con sake",
+      "detalle": "0,75 l",
+      "precio": 3.59,
+      "precioAnterior": 5.99,
+      "oferta": "−40%",
+      "vigencia": "31 oct – 3 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Aceite de sésamo",
+      "detalle": "250 ml. La 2ª unidad sale a 1,39 €",
+      "precio": 2.79,
+      "oferta": "2ª ud −50%",
+      "vigencia": "31 oct – 3 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Aceite de cacahuete",
+      "detalle": "250 ml. La 2ª unidad sale a 1,39 €",
+      "precio": 2.79,
+      "oferta": "2ª ud −50%",
+      "vigencia": "31 oct – 3 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Bol de fideos udon (agridulce, kimchi o soja y jengibre)",
+      "detalle": "249 g. La 2ª unidad sale a 1,14 €",
+      "precio": 2.29,
+      "oferta": "2ª ud −50%",
+      "vigencia": "31 oct – 3 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Salsa para wok (agridulce o soja y sésamo)",
+      "detalle": "170-175 ml. La 2ª unidad sale a 0,99 €",
+      "precio": 1.99,
+      "oferta": "2ª ud −50%",
+      "vigencia": "31 oct – 3 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Arroz asiático (nasi goreng o thai curry)",
+      "detalle": "250 g. La 2ª unidad sale a 0,89 €",
+      "precio": 1.79,
+      "oferta": "2ª ud −50%",
+      "vigencia": "31 oct – 3 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Wok de verduras (clásico, hortalizas chinas o con setas)",
+      "detalle": "310 g peso escurrido. La 2ª unidad sale a 0,87 €",
+      "precio": 1.75,
+      "oferta": "2ª ud −50%",
+      "vigencia": "31 oct – 3 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Edamame en conserva",
+      "detalle": "130 g peso escurrido. La 2ª unidad sale a 0,67 €",
+      "precio": 1.35,
+      "oferta": "2ª ud −50%",
+      "vigencia": "31 oct – 3 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Tteokbokki picante",
+      "detalle": "120 g",
+      "precio": 2.75,
+      "precioAnterior": 2.99,
+      "oferta": "−8%",
+      "vigencia": "31 oct – 3 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Barquillos sabor nata Dia Galleteca",
+      "detalle": "210 g. Según edición regional; puede variar por zona",
+      "precio": 0.75,
+      "precioAnterior": 1.15,
+      "oferta": "−35%",
+      "vigencia": "28 oct – 3 nov",
+      "url": "https://radarsuper.com/folletos/dia"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Fabada asturiana Dia Al Punto",
+      "detalle": "435 g",
+      "precio": 1,
+      "precioAnterior": 1.49,
+      "oferta": "−32%",
+      "vigencia": "28 oct – 3 nov",
+      "url": "https://radarsuper.com/folletos/dia"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Jaffa cake con naranja Dia Galleteca",
+      "detalle": "300 g. Según edición regional; puede variar por zona",
+      "precio": 1.99,
+      "precioAnterior": 2.49,
+      "oferta": "−20%",
+      "vigencia": "28 oct – 3 nov",
+      "url": "https://radarsuper.com/folletos/dia"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Bizcochos Dia Galleteca",
+      "detalle": "400 g. Según edición regional; puede variar por zona",
+      "precio": 1.51,
+      "precioAnterior": 1.89,
+      "oferta": "−20%",
+      "vigencia": "28 oct – 3 nov",
+      "url": "https://radarsuper.com/folletos/dia"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Cookies con pepitas de chocolate Dia Galleteca",
+      "detalle": "225 g. Según edición regional; puede variar por zona",
+      "precio": 1.27,
+      "precioAnterior": 1.59,
+      "oferta": "−20%",
+      "vigencia": "28 oct – 3 nov",
+      "url": "https://radarsuper.com/folletos/dia"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Galletas Tostadas Dia Galleteca",
+      "detalle": "800 g. Según edición regional; puede variar por zona",
+      "precio": 1.11,
+      "precioAnterior": 1.39,
+      "oferta": "−20%",
+      "vigencia": "28 oct – 3 nov",
+      "url": "https://radarsuper.com/folletos/dia"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Galletas María dorada Dia Galleteca",
+      "detalle": "800 g. Según edición regional; puede variar por zona",
+      "precio": 1.11,
+      "precioAnterior": 1.39,
+      "oferta": "−20%",
+      "vigencia": "28 oct – 3 nov",
+      "url": "https://radarsuper.com/folletos/dia"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Galletas Digestive con avena Dia Galleteca",
+      "detalle": "425 g. Según edición regional; puede variar por zona",
+      "precio": 0.95,
+      "precioAnterior": 1.19,
+      "oferta": "−20%",
+      "vigencia": "28 oct – 3 nov",
+      "url": "https://radarsuper.com/folletos/dia"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Galletas Digestive Dia Galleteca",
+      "detalle": "400 g. Según edición regional; puede variar por zona",
+      "precio": 0.71,
+      "precioAnterior": 0.89,
+      "oferta": "−20%",
+      "vigencia": "28 oct – 3 nov",
+      "url": "https://radarsuper.com/folletos/dia"
+    },
+    {
+      "supermercado": "Alcampo",
+      "producto": "Turrón de chocolate Suchard",
+      "detalle": "Variedades, 230 g. Si llevas 3, la unidad sale a 3,33 € (3 uds: 9,99 €). No aplica a la edición de Canarias",
+      "precio": 4.99,
+      "oferta": "3x2",
+      "vigencia": "22 oct – 4 nov",
+      "url": "https://radarsuper.com/folletos/alcampo"
+    },
+    {
+      "supermercado": "Alcampo",
+      "producto": "Sopas deshidratadas Knorr",
+      "detalle": "Variedades, de 46 g a 92 g. Promoción Club Alcampo: el descuento se acumula en la tarjeta. No aplica a la edición de Canarias",
+      "oferta": "2ª ud −50%",
+      "vigencia": "22 oct – 4 nov",
+      "url": "https://radarsuper.com/folletos/alcampo"
+    },
+    {
+      "supermercado": "Alcampo",
+      "producto": "Legumbres y cocidos Carretilla",
+      "detalle": "Alubias, lentejas o garbanzos al estilo casero, cocido madrileño o fabada, de 300 g a 350 g. Promoción Club Alcampo: el descuento se acumula en la tarjeta. No aplica a la edición de Canarias",
+      "oferta": "2ª ud −50%",
+      "vigencia": "22 oct – 4 nov",
+      "url": "https://radarsuper.com/folletos/alcampo"
+    },
+    {
+      "supermercado": "Alcampo",
+      "producto": "Pipas supremas envase ahorro Facundo",
+      "detalle": "190 g. Promoción Club Alcampo: el descuento se acumula en la tarjeta. No aplica a la edición de Canarias",
+      "oferta": "2ª ud −50%",
+      "vigencia": "22 oct – 4 nov",
+      "url": "https://radarsuper.com/folletos/alcampo"
+    },
+    {
+      "supermercado": "Alcampo",
+      "producto": "Conservas de pescado Ribeira",
+      "detalle": "Todas las conservas de pescado de la marca. No aplica a la edición de Canarias",
+      "oferta": "−15%",
+      "vigencia": "22 oct – 4 nov",
+      "url": "https://radarsuper.com/folletos/alcampo"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Kaki",
+      "detalle": "Precio por kg. Eroski Center, tiendas adheridas",
+      "precio": 1.99,
+      "precioAnterior": 3.59,
+      "oferta": "−44%",
+      "vigencia": "29 oct – 4 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Brócoli",
+      "detalle": "500 g. Eroski Center, tiendas adheridas",
+      "precio": 1.19,
+      "precioAnterior": 1.95,
+      "oferta": "−38%",
+      "vigencia": "29 oct – 4 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Detergente Ariel y productos Lenor señalizados",
+      "detalle": "Ejemplo: Ariel líquido Original 44 dosis, 17,90 € y la 2ª unidad a 5,37 €. Descuento en el de menor importe, combinable. Eroski Center, tiendas adheridas",
+      "precio": 17.9,
+      "oferta": "2ª ud −70%",
+      "vigencia": "29 oct – 11 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Actimel, productos señalizados",
+      "detalle": "Comprando 3, la unidad sale a 2,66 €. Combinable. Eroski Center, tiendas adheridas",
+      "precio": 3.99,
+      "oferta": "3x2",
+      "vigencia": "29 oct – 11 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Atún claro en aceite de oliva Calvo",
+      "detalle": "Pack 3x65 g. Comprando 3, la unidad sale a 2,79 €. Eroski Center, tiendas adheridas",
+      "precio": 4.19,
+      "oferta": "3x2",
+      "vigencia": "29 oct – 11 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Napolitana de crema de cacao Eroski",
+      "detalle": "Bandeja 4+1 ud gratis, 325 g. Eroski Center, tiendas adheridas",
+      "precio": 1.5,
+      "precioAnterior": 1.88,
+      "oferta": "−20%",
+      "vigencia": "29 oct – 4 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Hamburguesa de vacuno Eroski Natur Bio",
+      "detalle": "2 uds, 240 g. Eroski Center, tiendas adheridas",
+      "precio": 3.59,
+      "precioAnterior": 4.29,
+      "oferta": "−16%",
+      "vigencia": "29 oct – 4 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Mandarina",
+      "detalle": "1 kg. Eroski Center, tiendas adheridas",
+      "precio": 1.99,
+      "precioAnterior": 2.35,
+      "oferta": "−15%",
+      "vigencia": "29 oct – 4 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Calabaza limpia en trozos Eroski",
+      "detalle": "750 g. Eroski Center, tiendas adheridas",
+      "precio": 2.65,
+      "precioAnterior": 3.15,
+      "oferta": "−15%",
+      "vigencia": "29 oct – 4 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Barra grande Eroski",
+      "detalle": "330 g. Eroski Center, tiendas adheridas",
+      "precio": 1.09,
+      "precioAnterior": 1.29,
+      "oferta": "−15%",
+      "vigencia": "29 oct – 4 nov",
+      "url": "https://folleto.net/eroski/"
     }
   ]
 }
