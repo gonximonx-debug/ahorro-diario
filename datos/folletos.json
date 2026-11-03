@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T00:06:01+01:00",
+  "actualizado": "2026-11-03T11:07:16+01:00",
   "ofertas": [
     {
       "supermercado": "Carrefour",
@@ -32,16 +32,6 @@
     },
     {
       "supermercado": "Carrefour",
-      "producto": "Granada Carrefour El Mercado",
-      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 1.99,
-      "precioAnterior": 2.99,
-      "oferta": "−33%",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Carrefour",
       "producto": "Fabada asturiana Litoral",
       "detalle": "420 g. Comprando 3, la unidad sale a 1,73 € (3 uds: 5,20 €). También 3x2 en el resto de platos preparados Litoral. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
       "precio": 2.6,
@@ -55,6 +45,16 @@
       "detalle": "Comprando 3, la unidad sale a 2,03 € (3 uds: 6,10 €). Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
       "precio": 3.05,
       "oferta": "3x2",
+      "vigencia": "27 oct – 12 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Granada Carrefour El Mercado",
+      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
+      "precio": 1.99,
+      "precioAnterior": 2.99,
+      "oferta": "−33%",
       "vigencia": "27 oct – 12 nov",
       "url": "https://folleto.net/carrefour/"
     },
@@ -200,6 +200,26 @@
     },
     {
       "supermercado": "Aldi",
+      "producto": "Patatas",
+      "detalle": "Malla 3 kg",
+      "precio": 2.85,
+      "precioAnterior": 4.35,
+      "oferta": "−34%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Croquetas de bogavante",
+      "detalle": "280 g",
+      "precio": 1.99,
+      "precioAnterior": 2.99,
+      "oferta": "−33%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
       "producto": "Aceite de sésamo",
       "detalle": "250 ml. La 2ª unidad sale a 1,39 €",
       "precio": 2.79,
@@ -218,57 +238,51 @@
     },
     {
       "supermercado": "Aldi",
-      "producto": "Bol de fideos udon (agridulce, kimchi o soja y jengibre)",
-      "detalle": "249 g. La 2ª unidad sale a 1,14 €",
-      "precio": 2.29,
+      "producto": "Patatas fritas al punto de sal",
+      "detalle": "248 g. La 2ª unidad sale a 1,44 €",
+      "precio": 2.89,
       "oferta": "2ª ud −50%",
-      "vigencia": "31 oct – 3 nov",
+      "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
-      "producto": "Salsa para wok (agridulce o soja y sésamo)",
-      "detalle": "170-175 ml. La 2ª unidad sale a 0,99 €",
-      "precio": 1.99,
-      "oferta": "2ª ud −50%",
-      "vigencia": "31 oct – 3 nov",
+      "producto": "Mandarina",
+      "detalle": "1 kg",
+      "precio": 1.65,
+      "precioAnterior": 2.19,
+      "oferta": "−24%",
+      "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
-      "producto": "Arroz asiático (nasi goreng o thai curry)",
-      "detalle": "250 g. La 2ª unidad sale a 0,89 €",
-      "precio": 1.79,
-      "oferta": "2ª ud −50%",
-      "vigencia": "31 oct – 3 nov",
+      "producto": "Burger meat picada de vacuno y cerdo",
+      "detalle": "1 kg",
+      "precio": 5.99,
+      "precioAnterior": 7.75,
+      "oferta": "−22%",
+      "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
-      "producto": "Wok de verduras (clásico, hortalizas chinas o con setas)",
-      "detalle": "310 g peso escurrido. La 2ª unidad sale a 0,87 €",
-      "precio": 1.75,
-      "oferta": "2ª ud −50%",
-      "vigencia": "31 oct – 3 nov",
+      "producto": "Langostino cocido",
+      "detalle": "800 g",
+      "precio": 5.99,
+      "precioAnterior": 7.59,
+      "oferta": "−21%",
+      "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
-      "producto": "Edamame en conserva",
-      "detalle": "130 g peso escurrido. La 2ª unidad sale a 0,67 €",
-      "precio": 1.35,
-      "oferta": "2ª ud −50%",
-      "vigencia": "31 oct – 3 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Tteokbokki picante",
-      "detalle": "120 g",
-      "precio": 2.75,
-      "precioAnterior": 2.99,
-      "oferta": "−8%",
-      "vigencia": "31 oct – 3 nov",
+      "producto": "Papel higiénico XXL",
+      "detalle": "962,4 m",
+      "precio": 7.49,
+      "precioAnterior": 8.78,
+      "oferta": "−14%",
+      "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
