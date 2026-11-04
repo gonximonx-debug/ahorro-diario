@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T11:07:16+01:00",
+  "actualizado": "2026-11-04T10:43:55+01:00",
   "ofertas": [
     {
       "supermercado": "Carrefour",
@@ -190,12 +190,12 @@
     },
     {
       "supermercado": "Aldi",
-      "producto": "Espumoso de chardonnay con sake",
-      "detalle": "0,75 l",
-      "precio": 3.59,
-      "precioAnterior": 5.99,
-      "oferta": "−40%",
-      "vigencia": "31 oct – 3 nov",
+      "producto": "Suavizante concentrado Fresh",
+      "detalle": "56 lavados",
+      "precio": 2.59,
+      "precioAnterior": 3.99,
+      "oferta": "−35%",
+      "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
@@ -210,8 +210,8 @@
     },
     {
       "supermercado": "Aldi",
-      "producto": "Croquetas de bogavante",
-      "detalle": "280 g",
+      "producto": "Croquetas",
+      "detalle": "280 g, varios sabores",
       "precio": 1.99,
       "precioAnterior": 2.99,
       "oferta": "−33%",
@@ -220,20 +220,50 @@
     },
     {
       "supermercado": "Aldi",
-      "producto": "Aceite de sésamo",
-      "detalle": "250 ml. La 2ª unidad sale a 1,39 €",
-      "precio": 2.79,
-      "oferta": "2ª ud −50%",
-      "vigencia": "31 oct – 3 nov",
+      "producto": "Brócoli",
+      "detalle": "500 g aprox.",
+      "precio": 0.89,
+      "precioAnterior": 1.29,
+      "oferta": "−31%",
+      "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
-      "producto": "Aceite de cacahuete",
-      "detalle": "250 ml. La 2ª unidad sale a 1,39 €",
-      "precio": 2.79,
+      "producto": "Aceite de oliva suave",
+      "detalle": "1 L",
+      "precio": 3.99,
+      "precioAnterior": 5.75,
+      "oferta": "−31%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Skyr proteico 0%",
+      "detalle": "150 g, varios sabores",
+      "precio": 0.55,
+      "precioAnterior": 0.75,
+      "oferta": "−27%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Mayonesa",
+      "detalle": "430 ml. La 2ª unidad sale a 1,74 €",
+      "precio": 3.49,
       "oferta": "2ª ud −50%",
-      "vigencia": "31 oct – 3 nov",
+      "vigencia": "2 – 8 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Cápsulas de café Onyx o ristretto",
+      "detalle": "20 uds. La 2ª unidad sale a 3,87 €",
+      "precio": 7.75,
+      "oferta": "2ª ud −50%",
+      "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
@@ -247,133 +277,13 @@
     },
     {
       "supermercado": "Aldi",
-      "producto": "Mandarina",
-      "detalle": "1 kg",
-      "precio": 1.65,
-      "precioAnterior": 2.19,
-      "oferta": "−24%",
-      "vigencia": "2 – 8 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
       "producto": "Burger meat picada de vacuno y cerdo",
       "detalle": "1 kg",
       "precio": 5.99,
       "precioAnterior": 7.75,
-      "oferta": "−22%",
+      "oferta": "−23%",
       "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Langostino cocido",
-      "detalle": "800 g",
-      "precio": 5.99,
-      "precioAnterior": 7.59,
-      "oferta": "−21%",
-      "vigencia": "2 – 8 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Papel higiénico XXL",
-      "detalle": "962,4 m",
-      "precio": 7.49,
-      "precioAnterior": 8.78,
-      "oferta": "−14%",
-      "vigencia": "2 – 8 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Barquillos sabor nata Dia Galleteca",
-      "detalle": "210 g. Según edición regional; puede variar por zona",
-      "precio": 0.75,
-      "precioAnterior": 1.15,
-      "oferta": "−35%",
-      "vigencia": "28 oct – 3 nov",
-      "url": "https://radarsuper.com/folletos/dia"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Fabada asturiana Dia Al Punto",
-      "detalle": "435 g",
-      "precio": 1,
-      "precioAnterior": 1.49,
-      "oferta": "−32%",
-      "vigencia": "28 oct – 3 nov",
-      "url": "https://radarsuper.com/folletos/dia"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Jaffa cake con naranja Dia Galleteca",
-      "detalle": "300 g. Según edición regional; puede variar por zona",
-      "precio": 1.99,
-      "precioAnterior": 2.49,
-      "oferta": "−20%",
-      "vigencia": "28 oct – 3 nov",
-      "url": "https://radarsuper.com/folletos/dia"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Bizcochos Dia Galleteca",
-      "detalle": "400 g. Según edición regional; puede variar por zona",
-      "precio": 1.51,
-      "precioAnterior": 1.89,
-      "oferta": "−20%",
-      "vigencia": "28 oct – 3 nov",
-      "url": "https://radarsuper.com/folletos/dia"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Cookies con pepitas de chocolate Dia Galleteca",
-      "detalle": "225 g. Según edición regional; puede variar por zona",
-      "precio": 1.27,
-      "precioAnterior": 1.59,
-      "oferta": "−20%",
-      "vigencia": "28 oct – 3 nov",
-      "url": "https://radarsuper.com/folletos/dia"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Galletas Tostadas Dia Galleteca",
-      "detalle": "800 g. Según edición regional; puede variar por zona",
-      "precio": 1.11,
-      "precioAnterior": 1.39,
-      "oferta": "−20%",
-      "vigencia": "28 oct – 3 nov",
-      "url": "https://radarsuper.com/folletos/dia"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Galletas María dorada Dia Galleteca",
-      "detalle": "800 g. Según edición regional; puede variar por zona",
-      "precio": 1.11,
-      "precioAnterior": 1.39,
-      "oferta": "−20%",
-      "vigencia": "28 oct – 3 nov",
-      "url": "https://radarsuper.com/folletos/dia"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Galletas Digestive con avena Dia Galleteca",
-      "detalle": "425 g. Según edición regional; puede variar por zona",
-      "precio": 0.95,
-      "precioAnterior": 1.19,
-      "oferta": "−20%",
-      "vigencia": "28 oct – 3 nov",
-      "url": "https://radarsuper.com/folletos/dia"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Galletas Digestive Dia Galleteca",
-      "detalle": "400 g. Según edición regional; puede variar por zona",
-      "precio": 0.71,
-      "precioAnterior": 0.89,
-      "oferta": "−20%",
-      "vigencia": "28 oct – 3 nov",
-      "url": "https://radarsuper.com/folletos/dia"
     },
     {
       "supermercado": "Alcampo",
