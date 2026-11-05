@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T10:43:55+01:00",
+  "actualizado": "2026-11-05T09:03:55+01:00",
   "ofertas": [
     {
       "supermercado": "Carrefour",
@@ -286,70 +286,77 @@
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
-      "supermercado": "Alcampo",
-      "producto": "Turrón de chocolate Suchard",
-      "detalle": "Variedades, 230 g. Si llevas 3, la unidad sale a 3,33 € (3 uds: 9,99 €). No aplica a la edición de Canarias",
+      "supermercado": "Dia",
+      "producto": "M&M's cacahuete 200 g",
+      "detalle": "Precio con Club Dia",
+      "precio": 3,
+      "precioAnterior": 4.29,
+      "oferta": "−30%",
+      "vigencia": "4 – 10 nov",
+      "url": "https://folleto.net/dia/"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Café en cápsulas Dolce Gusto (16 uds)",
+      "detalle": "Espresso intenso, descafeinado, con leche… combinables. La 2ª ud sale a 2,49 € con Club Dia",
       "precio": 4.99,
-      "oferta": "3x2",
-      "vigencia": "22 oct – 4 nov",
-      "url": "https://radarsuper.com/folletos/alcampo"
-    },
-    {
-      "supermercado": "Alcampo",
-      "producto": "Sopas deshidratadas Knorr",
-      "detalle": "Variedades, de 46 g a 92 g. Promoción Club Alcampo: el descuento se acumula en la tarjeta. No aplica a la edición de Canarias",
       "oferta": "2ª ud −50%",
-      "vigencia": "22 oct – 4 nov",
-      "url": "https://radarsuper.com/folletos/alcampo"
+      "vigencia": "4 – 10 nov",
+      "url": "https://folleto.net/dia/"
     },
     {
-      "supermercado": "Alcampo",
-      "producto": "Legumbres y cocidos Carretilla",
-      "detalle": "Alubias, lentejas o garbanzos al estilo casero, cocido madrileño o fabada, de 300 g a 350 g. Promoción Club Alcampo: el descuento se acumula en la tarjeta. No aplica a la edición de Canarias",
+      "supermercado": "Dia",
+      "producto": "Turrón de chocolate con almendras Suchard 230 g",
+      "detalle": "La 2ª ud sale a 2,49 € con Club Dia",
+      "precio": 4.99,
       "oferta": "2ª ud −50%",
-      "vigencia": "22 oct – 4 nov",
-      "url": "https://radarsuper.com/folletos/alcampo"
+      "vigencia": "4 – 10 nov",
+      "url": "https://folleto.net/dia/"
     },
     {
-      "supermercado": "Alcampo",
-      "producto": "Pipas supremas envase ahorro Facundo",
-      "detalle": "190 g. Promoción Club Alcampo: el descuento se acumula en la tarjeta. No aplica a la edición de Canarias",
-      "oferta": "2ª ud −50%",
-      "vigencia": "22 oct – 4 nov",
-      "url": "https://radarsuper.com/folletos/alcampo"
+      "supermercado": "Dia",
+      "producto": "Snack de chocolate en barritas Kinder 100 g",
+      "detalle": "Precio con Club Dia",
+      "precio": 1.43,
+      "precioAnterior": 1.79,
+      "oferta": "−20%",
+      "vigencia": "4 – 10 nov",
+      "url": "https://folleto.net/dia/"
     },
     {
-      "supermercado": "Alcampo",
-      "producto": "Conservas de pescado Ribeira",
-      "detalle": "Todas las conservas de pescado de la marca. No aplica a la edición de Canarias",
-      "oferta": "−15%",
-      "vigencia": "22 oct – 4 nov",
-      "url": "https://radarsuper.com/folletos/alcampo"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Kaki",
-      "detalle": "Precio por kg. Eroski Center, tiendas adheridas",
+      "supermercado": "Dia",
+      "producto": "Pizza 4 quesos Dia Al Punto 400 g",
+      "detalle": "Congelada. Precio con Club Dia",
       "precio": 1.99,
-      "precioAnterior": 3.59,
-      "oferta": "−44%",
-      "vigencia": "29 oct – 4 nov",
-      "url": "https://folleto.net/eroski/"
+      "precioAnterior": 2.49,
+      "oferta": "−20%",
+      "vigencia": "4 – 10 nov",
+      "url": "https://folleto.net/dia/"
     },
     {
-      "supermercado": "Eroski",
-      "producto": "Brócoli",
-      "detalle": "500 g. Eroski Center, tiendas adheridas",
-      "precio": 1.19,
-      "precioAnterior": 1.95,
-      "oferta": "−38%",
-      "vigencia": "29 oct – 4 nov",
-      "url": "https://folleto.net/eroski/"
+      "supermercado": "Dia",
+      "producto": "Nuggets de pollo Dia Al Punto 400 g",
+      "detalle": "Congelados. Precio con Club Dia",
+      "precio": 2.39,
+      "precioAnterior": 2.99,
+      "oferta": "−20%",
+      "vigencia": "4 – 10 nov",
+      "url": "https://folleto.net/dia/"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Leche semidesnatada Asturiana 1,5 l",
+      "detalle": "Precio con Club Dia",
+      "precio": 1.67,
+      "precioAnterior": 1.79,
+      "oferta": "−7%",
+      "vigencia": "4 – 10 nov",
+      "url": "https://folleto.net/dia/"
     },
     {
       "supermercado": "Eroski",
       "producto": "Detergente Ariel y productos Lenor señalizados",
-      "detalle": "Ejemplo: Ariel líquido Original 44 dosis, 17,90 € y la 2ª unidad a 5,37 €. Descuento en el de menor importe, combinable. Eroski Center, tiendas adheridas",
+      "detalle": "Ej.: Ariel líquido original 44 dosis 17,90 €; la 2ª ud sale a 5,37 €. Descuento en la de menor importe, combinable. Folleto Eroski Center; en tiendas adheridas",
       "precio": 17.9,
       "oferta": "2ª ud −70%",
       "vigencia": "29 oct – 11 nov",
@@ -358,7 +365,7 @@
     {
       "supermercado": "Eroski",
       "producto": "Actimel, productos señalizados",
-      "detalle": "Comprando 3, la unidad sale a 2,66 €. Combinable. Eroski Center, tiendas adheridas",
+      "detalle": "Comprando 3, la unidad sale a 2,66 €. Combinable. Folleto Eroski Center; en tiendas adheridas",
       "precio": 3.99,
       "oferta": "3x2",
       "vigencia": "29 oct – 11 nov",
@@ -367,7 +374,7 @@
     {
       "supermercado": "Eroski",
       "producto": "Atún claro en aceite de oliva Calvo",
-      "detalle": "Pack 3x65 g. Comprando 3, la unidad sale a 2,79 €. Eroski Center, tiendas adheridas",
+      "detalle": "Pack 3x65 g. Comprando 3, la unidad sale a 2,79 €. Folleto Eroski Center; en tiendas adheridas",
       "precio": 4.19,
       "oferta": "3x2",
       "vigencia": "29 oct – 11 nov",
@@ -375,52 +382,47 @@
     },
     {
       "supermercado": "Eroski",
-      "producto": "Napolitana de crema de cacao Eroski",
-      "detalle": "Bandeja 4+1 ud gratis, 325 g. Eroski Center, tiendas adheridas",
-      "precio": 1.5,
-      "precioAnterior": 1.88,
-      "oferta": "−20%",
-      "vigencia": "29 oct – 4 nov",
+      "producto": "Frutos secos Borges señalizados",
+      "detalle": "Ej.: nuez cáscara USA 500 g a 5,45 €; comprando 3 sale a 3,63 €/ud. Folleto Eroski Center; en tiendas adheridas",
+      "precio": 5.45,
+      "oferta": "3x2",
+      "vigencia": "29 oct – 11 nov",
       "url": "https://folleto.net/eroski/"
     },
     {
       "supermercado": "Eroski",
-      "producto": "Hamburguesa de vacuno Eroski Natur Bio",
-      "detalle": "2 uds, 240 g. Eroski Center, tiendas adheridas",
-      "precio": 3.59,
-      "precioAnterior": 4.29,
-      "oferta": "−16%",
-      "vigencia": "29 oct – 4 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Mandarina",
-      "detalle": "1 kg. Eroski Center, tiendas adheridas",
-      "precio": 1.99,
-      "precioAnterior": 2.35,
-      "oferta": "−15%",
-      "vigencia": "29 oct – 4 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Calabaza limpia en trozos Eroski",
-      "detalle": "750 g. Eroski Center, tiendas adheridas",
+      "producto": "Aceitunas Serpis señaladas",
+      "detalle": "Ej.: aceituna rellena de anchoa 2,65 €; comprando 3 sale a 1,77 €/ud. Folleto Eroski Center; en tiendas adheridas",
       "precio": 2.65,
-      "precioAnterior": 3.15,
-      "oferta": "−15%",
-      "vigencia": "29 oct – 4 nov",
+      "oferta": "3x2",
+      "vigencia": "29 oct – 11 nov",
       "url": "https://folleto.net/eroski/"
     },
     {
       "supermercado": "Eroski",
-      "producto": "Barra grande Eroski",
-      "detalle": "330 g. Eroski Center, tiendas adheridas",
-      "precio": 1.09,
-      "precioAnterior": 1.29,
-      "oferta": "−15%",
-      "vigencia": "29 oct – 4 nov",
+      "producto": "Patatas Pringles señalizadas",
+      "detalle": "La 2ª unidad sale a 1,32 €. Folleto Eroski Center; en tiendas adheridas",
+      "precio": 2.65,
+      "oferta": "2ª ud −50%",
+      "vigencia": "29 oct – 11 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Patatas Lay's sal super ahorro 248 g",
+      "detalle": "La 2ª unidad sale a 1,44 €. Folleto Eroski Center; en tiendas adheridas",
+      "precio": 2.89,
+      "oferta": "2ª ud −50%",
+      "vigencia": "29 oct – 11 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Doritos Tex-Mex pack económico 225 g",
+      "detalle": "La 2ª unidad sale a 1,49 €. Folleto Eroski Center; en tiendas adheridas",
+      "precio": 2.99,
+      "oferta": "2ª ud −50%",
+      "vigencia": "29 oct – 11 nov",
       "url": "https://folleto.net/eroski/"
     }
   ]
