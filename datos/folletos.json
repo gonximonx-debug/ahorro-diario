@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T09:03:55+01:00",
+  "actualizado": "2026-11-06T13:16:32+01:00",
   "ofertas": [
     {
       "supermercado": "Carrefour",
@@ -210,18 +210,18 @@
     },
     {
       "supermercado": "Aldi",
-      "producto": "Croquetas",
-      "detalle": "280 g, varios sabores",
-      "precio": 1.99,
-      "precioAnterior": 2.99,
+      "producto": "Perfumador líquido tropical",
+      "detalle": "40 lavados",
+      "precio": 2.99,
+      "precioAnterior": 4.49,
       "oferta": "−33%",
-      "vigencia": "2 – 8 nov",
+      "vigencia": "4 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
       "producto": "Brócoli",
-      "detalle": "500 g aprox.",
+      "detalle": "500 g",
       "precio": 0.89,
       "precioAnterior": 1.29,
       "oferta": "−31%",
@@ -240,12 +240,32 @@
     },
     {
       "supermercado": "Aldi",
+      "producto": "Alitas de pollo",
+      "detalle": "750 g",
+      "precio": 3.59,
+      "precioAnterior": 4.95,
+      "oferta": "−27%",
+      "vigencia": "2 – 8 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
       "producto": "Skyr proteico 0%",
-      "detalle": "150 g, varios sabores",
+      "detalle": "150 g. Arándanos, fresa o maracuyá",
       "precio": 0.55,
       "precioAnterior": 0.75,
       "oferta": "−27%",
       "vigencia": "2 – 8 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Manzana",
+      "detalle": "Bolsa 1,5 kg",
+      "precio": 1.95,
+      "precioAnterior": 2.59,
+      "oferta": "−25%",
+      "vigencia": "6 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
@@ -260,28 +280,9 @@
     {
       "supermercado": "Aldi",
       "producto": "Cápsulas de café Onyx o ristretto",
-      "detalle": "20 uds. La 2ª unidad sale a 3,87 €",
+      "detalle": "Pack 20 cápsulas. La 2ª unidad sale a 3,87 €",
       "precio": 7.75,
       "oferta": "2ª ud −50%",
-      "vigencia": "2 – 8 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Patatas fritas al punto de sal",
-      "detalle": "248 g. La 2ª unidad sale a 1,44 €",
-      "precio": 2.89,
-      "oferta": "2ª ud −50%",
-      "vigencia": "2 – 8 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Burger meat picada de vacuno y cerdo",
-      "detalle": "1 kg",
-      "precio": 5.99,
-      "precioAnterior": 7.75,
-      "oferta": "−23%",
       "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
