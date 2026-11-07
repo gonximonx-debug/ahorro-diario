@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T13:16:32+01:00",
+  "actualizado": "2026-11-07T09:30:39+01:00",
   "ofertas": [
     {
       "supermercado": "Carrefour",
@@ -234,7 +234,7 @@
       "detalle": "1 L",
       "precio": 3.99,
       "precioAnterior": 5.75,
-      "oferta": "−31%",
+      "oferta": "−30%",
       "vigencia": "2 – 8 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
@@ -266,6 +266,26 @@
       "precioAnterior": 2.59,
       "oferta": "−25%",
       "vigencia": "6 – 8 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Pack 2 vinos crianza DOP Ribera del Duero",
+      "detalle": "Pack 2 x 0,75 l",
+      "precio": 13.99,
+      "precioAnterior": 17.5,
+      "oferta": "−20%",
+      "vigencia": "7 – 10 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Pack 2 vinos tintos reserva DOCa Rioja",
+      "detalle": "Pack 2 x 0,75 l",
+      "precio": 13.99,
+      "precioAnterior": 17.5,
+      "oferta": "−20%",
+      "vigencia": "7 – 10 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
@@ -353,78 +373,6 @@
       "oferta": "−7%",
       "vigencia": "4 – 10 nov",
       "url": "https://folleto.net/dia/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Detergente Ariel y productos Lenor señalizados",
-      "detalle": "Ej.: Ariel líquido original 44 dosis 17,90 €; la 2ª ud sale a 5,37 €. Descuento en la de menor importe, combinable. Folleto Eroski Center; en tiendas adheridas",
-      "precio": 17.9,
-      "oferta": "2ª ud −70%",
-      "vigencia": "29 oct – 11 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Actimel, productos señalizados",
-      "detalle": "Comprando 3, la unidad sale a 2,66 €. Combinable. Folleto Eroski Center; en tiendas adheridas",
-      "precio": 3.99,
-      "oferta": "3x2",
-      "vigencia": "29 oct – 11 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Atún claro en aceite de oliva Calvo",
-      "detalle": "Pack 3x65 g. Comprando 3, la unidad sale a 2,79 €. Folleto Eroski Center; en tiendas adheridas",
-      "precio": 4.19,
-      "oferta": "3x2",
-      "vigencia": "29 oct – 11 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Frutos secos Borges señalizados",
-      "detalle": "Ej.: nuez cáscara USA 500 g a 5,45 €; comprando 3 sale a 3,63 €/ud. Folleto Eroski Center; en tiendas adheridas",
-      "precio": 5.45,
-      "oferta": "3x2",
-      "vigencia": "29 oct – 11 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Aceitunas Serpis señaladas",
-      "detalle": "Ej.: aceituna rellena de anchoa 2,65 €; comprando 3 sale a 1,77 €/ud. Folleto Eroski Center; en tiendas adheridas",
-      "precio": 2.65,
-      "oferta": "3x2",
-      "vigencia": "29 oct – 11 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Patatas Pringles señalizadas",
-      "detalle": "La 2ª unidad sale a 1,32 €. Folleto Eroski Center; en tiendas adheridas",
-      "precio": 2.65,
-      "oferta": "2ª ud −50%",
-      "vigencia": "29 oct – 11 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Patatas Lay's sal super ahorro 248 g",
-      "detalle": "La 2ª unidad sale a 1,44 €. Folleto Eroski Center; en tiendas adheridas",
-      "precio": 2.89,
-      "oferta": "2ª ud −50%",
-      "vigencia": "29 oct – 11 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Doritos Tex-Mex pack económico 225 g",
-      "detalle": "La 2ª unidad sale a 1,49 €. Folleto Eroski Center; en tiendas adheridas",
-      "precio": 2.99,
-      "oferta": "2ª ud −50%",
-      "vigencia": "29 oct – 11 nov",
-      "url": "https://folleto.net/eroski/"
     }
   ]
 }
