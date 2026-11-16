@@ -1,445 +1,349 @@
 {
-  "actualizado": "2026-11-11T12:49:42+01:00",
+  "actualizado": "2026-11-16T22:14:00+01:00",
   "ofertas": [
     {
-      "supermercado": "Carrefour",
-      "producto": "Calabaza sepallo Carrefour El Mercado",
-      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 1.19,
-      "precioAnterior": 1.89,
-      "oferta": "−37%",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
+      "supermercado": "Aldi",
+      "producto": "Vino blanco Chardonnay DOP Utiel-Requena",
+      "detalle": "Botella 0,75 L. Edición península",
+      "precio": 2.99,
+      "precioAnterior": 6.6,
+      "oferta": "−54%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
     },
     {
-      "supermercado": "Carrefour",
-      "producto": "Kaki Rojo Brillante Carrefour El Mercado",
-      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 2.39,
-      "precioAnterior": 3.69,
-      "oferta": "−35%",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Carrefour",
-      "producto": "Hamburguesa de añojo baja en grasa Círculo de Calidad",
-      "detalle": "Bandeja 2x150 g. La 2ª bandeja sale a 1,59 € (2 bandejas: 6,88 €). Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 5.29,
-      "oferta": "2ª ud −70%",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Carrefour",
-      "producto": "Granada Carrefour El Mercado",
-      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 1.99,
-      "precioAnterior": 2.99,
-      "oferta": "−33%",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Carrefour",
-      "producto": "Fabada asturiana Litoral",
-      "detalle": "420 g. Comprando 3, la unidad sale a 1,73 € (3 uds: 5,20 €). También 3x2 en el resto de platos preparados Litoral. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 2.6,
-      "oferta": "3x2",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Carrefour",
-      "producto": "Pizzas Pizza&Salsa Campofrío",
-      "detalle": "Comprando 3, la unidad sale a 2,03 € (3 uds: 6,10 €). Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 3.05,
-      "oferta": "3x2",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Carrefour",
-      "producto": "Piña Del Monte Selecta",
-      "detalle": "Variedad Extra Sweet. Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 1.89,
-      "precioAnterior": 2.59,
-      "oferta": "−27%",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Carrefour",
-      "producto": "Boniato Carrefour El Mercado",
-      "detalle": "Precio por kg. Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 1.85,
-      "precioAnterior": 2.49,
-      "oferta": "−26%",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Carrefour",
-      "producto": "Mandarina Carrefour El Mercado",
-      "detalle": "Malla 1,5 kg (1,89 €/kg). Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 2.84,
-      "precioAnterior": 3.68,
-      "oferta": "−23%",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Carrefour",
-      "producto": "Patata lavada todo uso Carrefour El Mercado",
-      "detalle": "Malla 5 kg (0,79 €/kg). Folleto hipermercados; no válido en Canarias, Cataluña, Galicia y algunas localidades",
-      "precio": 3.95,
-      "precioAnterior": 4.95,
-      "oferta": "−20%",
-      "vigencia": "27 oct – 12 nov",
-      "url": "https://folleto.net/carrefour/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Pera conferencia a granel",
-      "detalle": "Precio por kg. Precio con la app Lidl Plus",
-      "precio": 1.79,
-      "precioAnterior": 2.39,
-      "oferta": "−25%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Tortitas de maíz Sondey",
-      "precio": 0.85,
-      "precioAnterior": 1.09,
-      "oferta": "−22%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Puré de patatas Harvest Basket",
-      "detalle": "Para 16 raciones",
-      "precio": 1.29,
-      "precioAnterior": 1.65,
-      "oferta": "−21%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Remolacha cocida",
-      "detalle": "Precio con la app Lidl Plus",
-      "precio": 0.75,
-      "precioAnterior": 0.95,
-      "oferta": "−21%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Bolsas de congelación Aromata 5 l",
-      "precio": 0.95,
-      "precioAnterior": 1.19,
-      "oferta": "−20%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Chips extra crujientes Snack Day",
-      "detalle": "Precio con la app Lidl Plus",
-      "precio": 1.19,
-      "precioAnterior": 1.49,
-      "oferta": "−20%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Vino blanco Vega del Pas D.O. Rueda",
-      "detalle": "Verdejo",
-      "precio": 3.99,
+      "supermercado": "Aldi",
+      "producto": "Vino tinto crianza DOCa Rioja",
+      "detalle": "Botella 0,75 L. Edición península",
+      "precio": 2.99,
       "precioAnterior": 4.99,
-      "oferta": "−20%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Vino tinto crianza NEO D.O. Ribera del Duero",
-      "precio": 5.59,
-      "precioAnterior": 6.99,
-      "oferta": "−20%",
-      "vigencia": "9 – 22 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Zumo de melocotón y uva Solevita",
-      "precio": 1.19,
-      "precioAnterior": 1.45,
-      "oferta": "−17%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Espetec extra Realvalle",
-      "detalle": "Precio con la app Lidl Plus",
-      "precio": 1.49,
-      "precioAnterior": 1.79,
-      "oferta": "−16%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Dentífrico Cool Fresh",
-      "detalle": "125 ml. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 0.79,
-      "precioAnterior": 1.25,
-      "oferta": "−36%",
-      "vigencia": "9 – 15 nov",
+      "oferta": "−40%",
+      "vigencia": "16 nov – 22 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
-      "producto": "Vino blanco verdejo DOP Rueda",
-      "detalle": "Botella 0,75 l. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 3.69,
-      "precioAnterior": 5.59,
+      "producto": "Lavavajillas en cápsulas",
+      "detalle": "Pack de 54 / 60 unidades. Edición península",
+      "precio": 9.99,
+      "precioAnterior": 14.99,
       "oferta": "−33%",
-      "vigencia": "9 – 15 nov",
+      "vigencia": "16 nov – 22 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
-      "producto": "Calabaza",
-      "detalle": "Precio por kg, a granel. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 1.25,
-      "precioAnterior": 1.85,
+      "producto": "Boniato a granel",
+      "detalle": "Precio por kg. Edición península",
+      "precio": 1.69,
+      "precioAnterior": 2.49,
       "oferta": "−32%",
-      "vigencia": "9 – 15 nov",
+      "vigencia": "16 nov – 22 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
-      "producto": "Pera",
-      "detalle": "Bolsa 1 kg. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 1.59,
-      "precioAnterior": 2.25,
-      "oferta": "−29%",
-      "vigencia": "9 – 15 nov",
+      "producto": "Aceite de oliva suave",
+      "detalle": "Botella 1 L. Edición península",
+      "precio": 3.99,
+      "precioAnterior": 5.75,
+      "oferta": "−30%",
+      "vigencia": "16 nov – 22 nov",
       "url": "https://folleto.net/aldi/ofertas/"
     },
     {
       "supermercado": "Aldi",
-      "producto": "Mandarina",
-      "detalle": "Precio por kg, a granel. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 1.59,
-      "precioAnterior": 2.19,
-      "oferta": "−27%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Piña",
-      "detalle": "Precio por kg, a granel. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 0.99,
-      "precioAnterior": 1.35,
-      "oferta": "−26%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Aceite de oliva virgen extra",
-      "detalle": "Botella 1 l. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 4.69,
-      "precioAnterior": 6.29,
-      "oferta": "−25%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Minichocolatinas de caramelo y cacahuetes / caramelo y galleta",
-      "detalle": "227 g. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 2.99,
-      "precioAnterior": 3.99,
-      "oferta": "−25%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Solomillos de salmón",
-      "detalle": "500 g aprox.. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 9.49,
-      "precioAnterior": 12.35,
-      "oferta": "−23%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Zanahoria",
-      "detalle": "Bolsa 1 kg. Precios península; en Baleares y Canarias pueden variar",
-      "precio": 0.89,
-      "precioAnterior": 1.15,
-      "oferta": "−22%",
-      "vigencia": "9 – 15 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Galletas osito Lulu Fontaneda",
-      "detalle": "150 g. 2 paquetes por 3 € (1 paquete: 2,30 €). Precio con Club Dia; el folleto de Dia cambia según la zona",
-      "precio": 1.5,
-      "precioAnterior": 2.3,
-      "oferta": "2x3 €",
-      "vigencia": "11 – 17 nov",
-      "url": "https://folleto.net/dia/"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Stick Mikado con chocolate con leche",
-      "detalle": "75 g. 2 por 3 € (1 ud: 2,25 €). Precio con Club Dia; el folleto de Dia cambia según la zona",
-      "precio": 1.5,
-      "precioAnterior": 2.25,
-      "oferta": "2x3 €",
-      "vigencia": "11 – 17 nov",
-      "url": "https://folleto.net/dia/"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Queso en porciones La Vaca que ríe",
-      "detalle": "250 g. La 2ª sale a 1,49 €. Precio con Club Dia; el folleto de Dia cambia según la zona",
-      "precio": 2.99,
+      "producto": "Judía verde plana",
+      "detalle": "Bandeja 500 g. La 2ª unidad sale a 0,99 €",
+      "precio": 1.99,
       "oferta": "2ª ud −50%",
-      "vigencia": "11 – 17 nov",
-      "url": "https://folleto.net/dia/"
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
     },
     {
-      "supermercado": "Dia",
-      "producto": "Donuts glacé",
-      "detalle": "4 uds, 208 g. La 2ª sale a 1,49 €. Precio con Club Dia; el folleto de Dia cambia según la zona",
-      "precio": 2.99,
-      "oferta": "2ª ud −50%",
-      "vigencia": "11 – 17 nov",
-      "url": "https://folleto.net/dia/"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Café en cápsulas Dolce Gusto latte Genova Nescafé",
-      "detalle": "14 uds. La 2ª sale a 1,99 €. Precio con Club Dia; el folleto de Dia cambia según la zona",
+      "supermercado": "Aldi",
+      "producto": "Cápsulas de café con leche o espresso",
+      "detalle": "Pack de 14 cápsulas. La 2ª unidad sale a 1,99 €",
       "precio": 3.99,
       "oferta": "2ª ud −50%",
-      "vigencia": "11 – 17 nov",
-      "url": "https://folleto.net/dia/"
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Refrescos en lata (citrus, naranja, limón o pomelo)",
+      "detalle": "Lata 330 ml. La 2ª unidad sale a 0,48 €",
+      "precio": 0.97,
+      "oferta": "2ª ud −50%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Sopa deshidratada de pollo / ave con fideos",
+      "detalle": "Sobre 71–85 g. La 2ª unidad sale a 0,42 €",
+      "precio": 0.85,
+      "oferta": "2ª ud −50%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Alcampo",
+      "producto": "Yogur griego Danone (−30% materia grasa)",
+      "detalle": "Pack 4 x 110 g, varios sabores. 1 ud 1,69 €; la 2ª sale a 0,85 €. Folleto peninsular, puede variar por zona",
+      "precio": 1.69,
+      "oferta": "2ª ud −50%",
+      "vigencia": "5 nov – 18 nov",
+      "url": "https://folleto.net/alcampo/"
+    },
+    {
+      "supermercado": "Alcampo",
+      "producto": "Bebida de avena Barista Oatly",
+      "detalle": "1 L. La 2ª unidad sale a 1,20 €. Folleto peninsular, puede variar por zona",
+      "oferta": "2ª ud −50%",
+      "vigencia": "5 nov – 18 nov",
+      "url": "https://folleto.net/alcampo/"
+    },
+    {
+      "supermercado": "Alcampo",
+      "producto": "Mousse Gold Nestlé o La Lechera",
+      "detalle": "Promoción Club Alcampo: el 25% se acumula en la tarjeta para la próxima compra",
+      "oferta": "−25% Club",
+      "vigencia": "5 nov – 18 nov",
+      "url": "https://folleto.net/alcampo/"
+    },
+    {
+      "supermercado": "Alcampo",
+      "producto": "Kéfir Nestlé",
+      "detalle": "Promoción Club Alcampo: el 25% se acumula en la tarjeta para la próxima compra",
+      "oferta": "−25% Club",
+      "vigencia": "5 nov – 18 nov",
+      "url": "https://folleto.net/alcampo/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Caldo casero de pollo o cocido Gallina Blanca",
+      "detalle": "Pack 4 x 1 L a 8,19 €. Con El Club Carrefour: comprando 2 packs se acumula el importe del 2º en ChequeAhorro",
+      "precio": 8.19,
+      "oferta": "2x1 (ChequeAhorro)",
+      "vigencia": "13 nov – 23 nov",
+      "url": "https://folleto.net/carrefour/"
+    },
+    {
+      "supermercado": "Carrefour",
+      "producto": "Champú Elvive Hidra Hialurónico",
+      "detalle": "400 ml a 4,49 €. Con El Club Carrefour: comprando 2 se acumula el importe de la 2ª en ChequeAhorro. 2x1 también en el resto de productos Elvive",
+      "precio": 4.49,
+      "oferta": "2x1 (ChequeAhorro)",
+      "vigencia": "13 nov – 23 nov",
+      "url": "https://folleto.net/carrefour/"
     },
     {
       "supermercado": "Dia",
-      "producto": "Chocolate con leche Milka",
-      "detalle": "125 g. 2 por 3 € (1 ud: 1,99 €). Precio con Club Dia; el folleto de Dia cambia según la zona",
-      "precio": 1.5,
-      "precioAnterior": 1.99,
-      "oferta": "2x3 €",
-      "vigencia": "11 – 17 nov",
-      "url": "https://folleto.net/dia/"
+      "producto": "Caldo de verduras Dia Al Punto",
+      "detalle": "1 L. Oferta CLUB Dia (web dia.es)",
+      "precio": 0.71,
+      "oferta": "−25%",
+      "vigencia": "Vigente el 16 nov",
+      "url": "https://www.dia.es/ofertas"
     },
     {
       "supermercado": "Dia",
-      "producto": "Queso semicurado mezcla en lonchas Dia El Cencerro",
-      "detalle": "160 g. Precio con Club Dia; el folleto de Dia cambia según la zona",
+      "producto": "Caldo de pescado Dia Al Punto",
+      "detalle": "1 L. Oferta CLUB Dia (web dia.es)",
+      "precio": 0.71,
+      "oferta": "−25%",
+      "vigencia": "Vigente el 16 nov",
+      "url": "https://www.dia.es/ofertas"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Pistachos recubiertos de chocolate con leche Dia Naturmundo",
+      "detalle": "150 g. Oferta CLUB Dia (web dia.es)",
+      "precio": 2.66,
+      "oferta": "−25%",
+      "vigencia": "Vigente el 16 nov",
+      "url": "https://www.dia.es/ofertas"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Sucedáneo de angulas MSC congelado Dia Mari Marinera",
+      "detalle": "250 g. Oferta CLUB Dia (web dia.es)",
       "precio": 1.59,
-      "precioAnterior": 1.99,
       "oferta": "−20%",
-      "vigencia": "11 – 17 nov",
-      "url": "https://folleto.net/dia/"
+      "vigencia": "Vigente el 16 nov",
+      "url": "https://www.dia.es/ofertas"
     },
     {
       "supermercado": "Dia",
-      "producto": "Yogur griego Oikos natural Danone",
-      "detalle": "Pack 4 x 110 g. Precio con Club Dia; el folleto de Dia cambia según la zona",
-      "precio": 2.29,
-      "precioAnterior": 2.79,
-      "oferta": "−17%",
-      "vigencia": "11 – 17 nov",
-      "url": "https://folleto.net/dia/"
+      "producto": "Colas de gambón pelado crudo Dia Mari Marinera",
+      "detalle": "200 g. Oferta CLUB Dia (web dia.es)",
+      "precio": 3.94,
+      "oferta": "−20%",
+      "vigencia": "Vigente el 16 nov",
+      "url": "https://www.dia.es/ofertas"
     },
     {
-      "supermercado": "Eroski",
-      "producto": "Brócoli",
-      "detalle": "500 g. Folleto Eroski Center; hipermercados y Eroski City tienen folleto propio",
-      "precio": 1.19,
-      "precioAnterior": 1.95,
-      "oferta": "−38%",
-      "vigencia": "1 – 15 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Calabaza limpia en trozos Eroski",
-      "detalle": "750 g. Folleto Eroski Center; hipermercados y Eroski City tienen folleto propio",
-      "precio": 2.65,
-      "precioAnterior": 3.15,
-      "oferta": "−15%",
-      "vigencia": "1 – 15 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Aguacate en bandeja Eroski",
-      "detalle": "Precio por kg; descuento aplicado en caja. Folleto Eroski Center; hipermercados y Eroski City tienen folleto propio",
-      "precio": 4.51,
-      "precioAnterior": 5.3,
-      "oferta": "−14%",
-      "vigencia": "1 – 15 nov",
-      "url": "https://folleto.net/eroski/"
-    },
-    {
-      "supermercado": "Eroski",
-      "producto": "Ensalada César light Florette",
-      "detalle": "Bowl 200 g. Folleto Eroski Center; hipermercados y Eroski City tienen folleto propio",
+      "supermercado": "Dia",
+      "producto": "Vino tinto crianza D.O. Rioja Castillo de Haro",
+      "detalle": "75 cl. Oferta CLUB Dia (web dia.es)",
       "precio": 3.19,
-      "precioAnterior": 3.74,
-      "oferta": "−14%",
-      "vigencia": "1 – 15 nov",
+      "oferta": "−20%",
+      "vigencia": "Vigente el 16 nov",
+      "url": "https://www.dia.es/ofertas"
+    },
+    {
+      "supermercado": "Dia",
+      "producto": "Salsa Pampa Dia Salseo",
+      "detalle": "300 g. Oferta CLUB Dia (web dia.es)",
+      "precio": 1.27,
+      "oferta": "−20%",
+      "vigencia": "Vigente el 16 nov",
+      "url": "https://www.dia.es/ofertas"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Aceite de oliva virgen Coosur Serie Oro",
+      "detalle": "1 L a 6,19 €; la 2ª unidad a 1,86 €. Folleto Eroski Center",
+      "precio": 6.19,
+      "oferta": "2ª ud −70%",
+      "vigencia": "12 nov – 25 nov",
       "url": "https://folleto.net/eroski/"
     },
     {
       "supermercado": "Eroski",
-      "producto": "Cebolla blanca Eroski",
-      "detalle": "Malla 1 kg. Folleto Eroski Center; hipermercados y Eroski City tienen folleto propio",
+      "producto": "Yogur natural Activia",
+      "detalle": "Pack de 8 a 3,99 €; el 2º pack a 1,20 €. Combinable entre variedades señalizadas. Folleto Eroski Center",
+      "precio": 3.99,
+      "oferta": "2ª ud −70%",
+      "vigencia": "12 nov – 25 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Cerveza San Miguel",
+      "detalle": "Pack 12 x 33 cl a 8,64 €; el 2º pack a 2,59 €. Folleto Eroski Center",
+      "precio": 8.64,
+      "oferta": "2ª ud −70%",
+      "vigencia": "12 nov – 25 nov",
+      "url": "https://folleto.net/eroski/"
+    },
+    {
+      "supermercado": "Eroski",
+      "producto": "Chorizo y salchichón ibéricos Delicatapas",
+      "detalle": "1,50 € la unidad; la 2ª a 0,45 €. Combinable. Folleto Eroski Center",
       "precio": 1.5,
-      "precioAnterior": 1.7,
-      "oferta": "−11%",
-      "vigencia": "1 – 15 nov",
+      "oferta": "2ª ud −70%",
+      "vigencia": "12 nov – 25 nov",
       "url": "https://folleto.net/eroski/"
     },
     {
       "supermercado": "Eroski",
-      "producto": "Plátano de Canarias IGP Eroski",
-      "detalle": "Precio por kg. Folleto Eroski Center; hipermercados y Eroski City tienen folleto propio",
-      "precio": 2.49,
-      "precioAnterior": 2.8,
-      "oferta": "−11%",
-      "vigencia": "1 – 15 nov",
+      "producto": "Medio pulpo cocido Eroski",
+      "detalle": "1 pieza. Folleto Eroski Center",
+      "precio": 8.85,
+      "precioAnterior": 10.85,
+      "oferta": "−18%",
+      "vigencia": "12 nov – 18 nov",
       "url": "https://folleto.net/eroski/"
     },
     {
-      "supermercado": "Eroski",
-      "producto": "Kiwi maduro",
-      "detalle": "Precio por kg. Folleto Eroski Center; hipermercados y Eroski City tienen folleto propio",
+      "supermercado": "Lidl",
+      "producto": "Calabaza",
+      "detalle": "Categoría I. Precio con Lidl Plus",
+      "precio": 0.99,
+      "precioAnterior": 1.85,
+      "oferta": "−46%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Naranja malla 2 kg",
+      "detalle": "Categoría I. Precio con Lidl Plus",
+      "precio": 0.95,
+      "precioAnterior": 1.49,
+      "oferta": "−36%",
+      "vigencia": "16 nov – 19 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Aguacate a granel",
+      "detalle": "Categoría I. Precio con Lidl Plus",
       "precio": 3.59,
-      "precioAnterior": 3.99,
-      "oferta": "−10%",
-      "vigencia": "1 – 15 nov",
-      "url": "https://folleto.net/eroski/"
+      "precioAnterior": 5.19,
+      "oferta": "−31%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Cerveza Pils Perlenbacher",
+      "precio": 3.99,
+      "precioAnterior": 5.4,
+      "oferta": "−26%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Mandarina nacional malla 1 kg",
+      "detalle": "Categoría I. Precio con Lidl Plus",
+      "precio": 1.49,
+      "precioAnterior": 1.99,
+      "oferta": "−25%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Pepino de Almería (unidad)",
+      "detalle": "Precio con Lidl Plus",
+      "precio": 0.75,
+      "precioAnterior": 0.99,
+      "oferta": "−24%",
+      "vigencia": "13 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Pastillas antical para lavadora W5",
+      "detalle": "Precio con Lidl Plus",
+      "precio": 3.09,
+      "precioAnterior": 3.95,
+      "oferta": "−22%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Lechuga iceberg",
+      "detalle": "Categoría I. Precio con Lidl Plus",
+      "precio": 0.69,
+      "precioAnterior": 0.89,
+      "oferta": "−22%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Papel de cocina compacto Floralys",
+      "detalle": "6 rollos",
+      "precio": 3.55,
+      "precioAnterior": 4.49,
+      "oferta": "−21%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
+      "producto": "Yogur bífidus natural Milbona",
+      "precio": 1.15,
+      "precioAnterior": 1.45,
+      "oferta": "−21%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
     }
   ]
 }
