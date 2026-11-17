@@ -1,92 +1,6 @@
 {
-  "actualizado": "2026-11-16T22:14:00+01:00",
+  "actualizado": "2026-11-17T11:06:00+01:00",
   "ofertas": [
-    {
-      "supermercado": "Aldi",
-      "producto": "Vino blanco Chardonnay DOP Utiel-Requena",
-      "detalle": "Botella 0,75 L. Edición península",
-      "precio": 2.99,
-      "precioAnterior": 6.6,
-      "oferta": "−54%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Vino tinto crianza DOCa Rioja",
-      "detalle": "Botella 0,75 L. Edición península",
-      "precio": 2.99,
-      "precioAnterior": 4.99,
-      "oferta": "−40%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Lavavajillas en cápsulas",
-      "detalle": "Pack de 54 / 60 unidades. Edición península",
-      "precio": 9.99,
-      "precioAnterior": 14.99,
-      "oferta": "−33%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Boniato a granel",
-      "detalle": "Precio por kg. Edición península",
-      "precio": 1.69,
-      "precioAnterior": 2.49,
-      "oferta": "−32%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Aceite de oliva suave",
-      "detalle": "Botella 1 L. Edición península",
-      "precio": 3.99,
-      "precioAnterior": 5.75,
-      "oferta": "−30%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Judía verde plana",
-      "detalle": "Bandeja 500 g. La 2ª unidad sale a 0,99 €",
-      "precio": 1.99,
-      "oferta": "2ª ud −50%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Cápsulas de café con leche o espresso",
-      "detalle": "Pack de 14 cápsulas. La 2ª unidad sale a 1,99 €",
-      "precio": 3.99,
-      "oferta": "2ª ud −50%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Refrescos en lata (citrus, naranja, limón o pomelo)",
-      "detalle": "Lata 330 ml. La 2ª unidad sale a 0,48 €",
-      "precio": 0.97,
-      "oferta": "2ª ud −50%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
-    {
-      "supermercado": "Aldi",
-      "producto": "Sopa deshidratada de pollo / ave con fideos",
-      "detalle": "Sobre 71–85 g. La 2ª unidad sale a 0,42 €",
-      "precio": 0.85,
-      "oferta": "2ª ud −50%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/aldi/ofertas/"
-    },
     {
       "supermercado": "Alcampo",
       "producto": "Yogur griego Danone (−30% materia grasa)",
@@ -121,6 +35,104 @@
       "url": "https://folleto.net/alcampo/"
     },
     {
+      "supermercado": "Aldi",
+      "producto": "Vino blanco Chardonnay DOP Utiel-Requena",
+      "detalle": "Botella 0,75 L",
+      "precio": 2.99,
+      "precioAnterior": 6.6,
+      "oferta": "−54%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Vino tinto crianza DOCa Rioja",
+      "detalle": "Botella 0,75 L",
+      "precio": 2.99,
+      "precioAnterior": 4.99,
+      "oferta": "−40%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Lavavajillas en cápsulas",
+      "detalle": "Pack de 54 / 60 unidades",
+      "precio": 9.99,
+      "precioAnterior": 14.99,
+      "oferta": "−33%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Boniato a granel",
+      "detalle": "Precio por kg",
+      "precio": 1.69,
+      "precioAnterior": 2.49,
+      "oferta": "−32%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Aceite de oliva suave",
+      "detalle": "Botella 1 L",
+      "precio": 3.99,
+      "precioAnterior": 5.75,
+      "oferta": "−30%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Langostino cocido",
+      "detalle": "500 g",
+      "precio": 3.49,
+      "precioAnterior": 4.69,
+      "oferta": "−25%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Huesitos mini o Superchoc XL",
+      "detalle": "Pack 20 x 13,5 g o 5 x 46 g",
+      "precio": 2.99,
+      "precioAnterior": 3.85,
+      "oferta": "−22%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Desodorante en spray",
+      "detalle": "200 ml",
+      "precio": 3.02,
+      "precioAnterior": 3.69,
+      "oferta": "−18%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Judía verde plana",
+      "detalle": "Bandeja 500 g. 1 ud 1,99 €; la 2ª sale a 0,99 €",
+      "precio": 1.99,
+      "oferta": "2ª ud −50%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
+      "supermercado": "Aldi",
+      "producto": "Sopa deshidratada de pollo / ave con fideos",
+      "detalle": "Sobre 71–85 g. 1 ud 0,85 €; la 2ª sale a 0,42 €",
+      "precio": 0.85,
+      "oferta": "2ª ud −50%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/aldi/ofertas/"
+    },
+    {
       "supermercado": "Carrefour",
       "producto": "Caldo casero de pollo o cocido Gallina Blanca",
       "detalle": "Pack 4 x 1 L a 8,19 €. Con El Club Carrefour: comprando 2 packs se acumula el importe del 2º en ChequeAhorro",
@@ -144,7 +156,7 @@
       "detalle": "1 L. Oferta CLUB Dia (web dia.es)",
       "precio": 0.71,
       "oferta": "−25%",
-      "vigencia": "Vigente el 16 nov",
+      "vigencia": "Vigente el 17 nov",
       "url": "https://www.dia.es/ofertas"
     },
     {
@@ -153,16 +165,7 @@
       "detalle": "1 L. Oferta CLUB Dia (web dia.es)",
       "precio": 0.71,
       "oferta": "−25%",
-      "vigencia": "Vigente el 16 nov",
-      "url": "https://www.dia.es/ofertas"
-    },
-    {
-      "supermercado": "Dia",
-      "producto": "Pistachos recubiertos de chocolate con leche Dia Naturmundo",
-      "detalle": "150 g. Oferta CLUB Dia (web dia.es)",
-      "precio": 2.66,
-      "oferta": "−25%",
-      "vigencia": "Vigente el 16 nov",
+      "vigencia": "Vigente el 17 nov",
       "url": "https://www.dia.es/ofertas"
     },
     {
@@ -171,34 +174,34 @@
       "detalle": "250 g. Oferta CLUB Dia (web dia.es)",
       "precio": 1.59,
       "oferta": "−20%",
-      "vigencia": "Vigente el 16 nov",
+      "vigencia": "Vigente el 17 nov",
       "url": "https://www.dia.es/ofertas"
     },
     {
       "supermercado": "Dia",
-      "producto": "Colas de gambón pelado crudo Dia Mari Marinera",
-      "detalle": "200 g. Oferta CLUB Dia (web dia.es)",
-      "precio": 3.94,
-      "oferta": "−20%",
-      "vigencia": "Vigente el 16 nov",
+      "producto": "Caldo de pollo Dia Al Punto",
+      "detalle": "1 L. Oferta CLUB Dia: solo a 0,59 € (web dia.es)",
+      "precio": 0.59,
+      "oferta": "Precio Club",
+      "vigencia": "Vigente el 17 nov",
       "url": "https://www.dia.es/ofertas"
     },
     {
       "supermercado": "Dia",
-      "producto": "Vino tinto crianza D.O. Rioja Castillo de Haro",
-      "detalle": "75 cl. Oferta CLUB Dia (web dia.es)",
-      "precio": 3.19,
-      "oferta": "−20%",
-      "vigencia": "Vigente el 16 nov",
+      "producto": "Panettone de chocolate Dia Dulce Noel",
+      "detalle": "500 g. Oferta CLUB Dia: solo a 3,39 € (web dia.es)",
+      "precio": 3.39,
+      "oferta": "Precio Club",
+      "vigencia": "Vigente el 17 nov",
       "url": "https://www.dia.es/ofertas"
     },
     {
       "supermercado": "Dia",
-      "producto": "Salsa Pampa Dia Salseo",
-      "detalle": "300 g. Oferta CLUB Dia (web dia.es)",
-      "precio": 1.27,
-      "oferta": "−20%",
-      "vigencia": "Vigente el 16 nov",
+      "producto": "Gambón crudo Dia Mari Marinera",
+      "detalle": "800 g. Oferta CLUB Dia: solo a 8,99 € (web dia.es)",
+      "precio": 8.99,
+      "oferta": "Precio Club",
+      "vigencia": "Vigente el 17 nov",
       "url": "https://www.dia.es/ofertas"
     },
     {
@@ -318,6 +321,15 @@
     },
     {
       "supermercado": "Lidl",
+      "producto": "Papel vegetal para hornear Aromata",
+      "precio": 1.29,
+      "precioAnterior": 1.65,
+      "oferta": "−22%",
+      "vigencia": "16 nov – 22 nov",
+      "url": "https://folleto.net/lidl/ofertas/"
+    },
+    {
+      "supermercado": "Lidl",
       "producto": "Lechuga iceberg",
       "detalle": "Categoría I. Precio con Lidl Plus",
       "precio": 0.69,
@@ -332,15 +344,6 @@
       "detalle": "6 rollos",
       "precio": 3.55,
       "precioAnterior": 4.49,
-      "oferta": "−21%",
-      "vigencia": "16 nov – 22 nov",
-      "url": "https://folleto.net/lidl/ofertas/"
-    },
-    {
-      "supermercado": "Lidl",
-      "producto": "Yogur bífidus natural Milbona",
-      "precio": 1.15,
-      "precioAnterior": 1.45,
       "oferta": "−21%",
       "vigencia": "16 nov – 22 nov",
       "url": "https://folleto.net/lidl/ofertas/"
